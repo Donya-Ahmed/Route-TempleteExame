@@ -1,0 +1,19 @@
+@media screen  and (max-width:991px){
+     .display-none{
+        display: none  !important;
+     }
+     .text-center-991{
+      text-align: center;
+     }
+     .text-center-991 p{
+      width: 100% !important;
+     }
+     .w-span {
+     
+      left: 46%;
+}
+.carousel-control-next , .carousel-control-prev{
+   display: none;
+}
+
+}
